@@ -2,16 +2,17 @@
 
 ###
 
-<p align="left">Soy de Chubut, Argentina. Estudiante de Ingeniería en computación en la Universidad Nacional de La Plata (UNLP) de la Facultad de Ingeniería(FI).</p>
+<p align="left">Soy de Chubut, Argentina. Estudiante avanzado de Ingeniería en computación en la Universidad Nacional de La Plata (UNLP) de la Facultad de Ingeniería(FI).</p>
+
+###
+<h2 align="left">Idiomas</h2>
 
 ###
 
-<h2 align="left">Mis intereses</h2>
+<p align="left">Español: Nativo 🇦🇷<br>Inglés: Fluido B1+🇬🇧<br>Gales: Intermedio Canolrrad(B1)🏴󠁧󠁢󠁷󠁬󠁳󠁿<br>Alemán: Básico A1 🇩🇪</p>
+
 
 ###
-
-<p align="left">⚛️ Computación Cuántica: Usando frameworks para la simulación de sistema promoviendo la ingenieria en software cuántico.<br><br>📐Matemática y Física: Estudiando los fundamentos teóricos básicos de la mecánica cuántica.<br><br>🤖Inteligencia Artificial: Interesado en la aplicación de los LLM para la predicción y el funcionamiento interno de los Transformadores como modelos.<br><br>🏆Deportes: Futbol, Rugby</p>
-
 ###
 
 <h2 align="left">Codeo con</h2>
@@ -33,37 +34,14 @@
 </div>
 
 ###
-
-<h2 align="left">Idiomas</h2>
-
-###
-
-<p align="left">Español: Nativo 🇦🇷<br>Inglés: Fluido B2🇬🇧<br>Gales: Intermedio Canolrrad🏴󠁧󠁢󠁷<br>Alemán: Aprendiendo 🇩🇪</p>
-
+<h2 align="left">Mis intereses</h2>
 
 ###
 
-### Contactos
-<a align="center" href="https://linkedin.com/in/tiago-restucha-35725336b" target="blank">
-    <img align="center" src="https://i.sstatic.net/gVE0j.png" alt="Tu perfil de LinkedIn" height="30" width="40" />
-  </a>
-<p align="left">
-  <a href="mailto:tiagorestucha@gmail.com">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Envíame un correo" height="30" width="30" />
-  </a>
-  <a href="instagramto:
-  </a>
-</p>
+<p align="left">⚛️ Computación Cuántica: Usando frameworks para la simulación de sistema promoviendo la ingenieria en software cuántico.<br><br>📐Matemática y Física: Estudiando los fundamentos teóricos básicos de la mecánica cuántica.<br><br>🤖Inteligencia Artificial: Interesado en la aplicación de los LLM para la predicción y el funcionamiento interno de los Transformadores como modelos.<br><br>🏆Deportes: Futbol, Rugby</p>
 
----
 
-### Estadísticas
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=TiagoRestucha&show_icons=true&locale=es&theme=radical" alt="Estadísticas de GitHub" />
-  
-</div>
 
 
 
